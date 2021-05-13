@@ -143,13 +143,11 @@ html{
     grid-row: 1 / 1;
     font-size: 3rem;
     text-align: center;
-    margin:0px;
-    padding: 0xp;
+    background
 }
 
 #statistics-container-item-header a{
-    font-size: 2rem;
-    text-decoration:none;
+    font-size: 1.5rem;
 }
 
 #statistics-container-item-1{
